@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to ESTATE</string>
+    <string name="slide_1_desc">Empowering your business with Technology</string>
+
+    <string name="slide_2_title">Connect office and Field</string>
+    <string name="slide_2_desc">Setup your project in web console</string>
+
+    <string name="slide_3_title">Way of Working</string>
+    <string name="slide_3_desc">Assign employee to Projects</string>
+
+    <string name="slide_4_title">Begin Reporting</string>
+    <string name="slide_4_desc">Start sending report from your Device</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
